@@ -4,9 +4,9 @@ As solana raydium jito bundler, it designed to facilitate buying and selling wit
 
 ## Contact me
 
-discord:  adelo_8
+discord:  @erikerik116
 
-telegram: @Akamala88071015
+telegram: @erikerik116
 
 
 ## Getting Started
